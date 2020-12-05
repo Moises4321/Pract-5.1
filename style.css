@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(243, 237, 237, 0.993);
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    background-color: dimgray;
+    text-decoration: underline;
+}
+
+strong.azul{
+    color: steelblue;
+}
+p.nombre{
+    background-color: silver;
+}
+
+p.grados{
+    background-color: silver;
+}
+
+p.aptitudes{
+    background-color: silver;
+}
+
+h3.idiomas{
+    background-color: rgb(129, 124, 124);
+    font-style: italic;
+}
+p.autor{
+    text-align: right;
+    background-color: white;
+}
+
+p.pie{
+
+    text-align: center;
+    background-color: white;
+}
+
+span.pieazul{
+    color: steelblue;
+}
