@@ -6,6 +6,12 @@ h1{
     text-align: center;
     font-size: 250%;
 }
+p.primero{
+    background-color: silver;
+
+
+    font-size: 130%;
+}
 h2{
     background-color: dimgray;
     text-decoration: underline;
@@ -17,14 +23,17 @@ strong.azul{
 }
 p.nombre{
     background-color: silver;
+    font-size: 130%;
 }
 
 p.grados{
     background-color: silver;
+    font-size: 130%;
 }
 
 p.aptitudes{
     background-color: silver;
+    font-size: 130%;
 }
 
 h3.idiomas{
@@ -35,11 +44,7 @@ h3.idiomas{
 p.autor{
     text-align: right;
     background-color: white;
+    
 }
 
-p.pie{
-
-    text-align: center;
-    background-color: white;
-}
 
