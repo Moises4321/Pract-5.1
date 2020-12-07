@@ -4,10 +4,12 @@ body{
 
 h1{
     text-align: center;
+    font-size: 250%;
 }
 h2{
     background-color: dimgray;
     text-decoration: underline;
+    font-size: 200%;
 }
 
 strong.azul{
@@ -28,6 +30,7 @@ p.aptitudes{
 h3.idiomas{
     background-color: rgb(129, 124, 124);
     font-style: italic;
+    font-size: 150%;
 }
 p.autor{
     text-align: right;
@@ -40,6 +43,3 @@ p.pie{
     background-color: white;
 }
 
-span.pieazul{
-    color: steelblue;
-}
